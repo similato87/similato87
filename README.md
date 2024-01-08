@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**similato87/similato87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Talion Zheng, a Software Engineer based in Canada. I'm passionate about developing innovative solutions that leverage the latest in AI and data analysis.
 
-Here are some ideas to get you started:
+### 🛠 Technologies and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, C++
+- **Concepts:** Full Stack Development, AI & Machine Learning, Data Analytics, Cloud Computing (AWS)
+
+### 📫 Abouth Me:
+
+- LinkedIn: [Talion Zheng](https://www.linkedin.com/in/talion-zheng-6a157a239)
+- Portfolio: [Talion's space](https://yuzhuozheng.com/)
+- Email: [Email me](mailto:similato87@gmail.com)
