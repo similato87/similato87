@@ -10,5 +10,5 @@ I'm Talion Zheng, a Software Engineer based in Canada. I'm passionate about deve
 ### 📫 Abouth Me:
 
 - LinkedIn: [Talion Zheng](https://www.linkedin.com/in/talion-zheng-6a157a239)
-- Portfolio: [Talion's space](https://yuzhuozheng.com/)
+- Portfolio: [Talion's space](https://similato87.github.io/CV/)
 - Email: [Email me](mailto:similato87@gmail.com)
